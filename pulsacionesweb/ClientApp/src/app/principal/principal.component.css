@@ -1,0 +1,16 @@
+h3{
+    
+    color: #b9ac92;
+    text-align: center;
+}
+
+.body{
+    color:#ffa931;
+    font-size: 30px;
+    padding-top: 5%;
+}
+img{
+    width: 300px; height: 300px;
+    display: block;
+    margin: auto;
+}
