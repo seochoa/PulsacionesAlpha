@@ -1,16 +1,22 @@
-h3{
-    
-    color: #b9ac92;
+.jumbotron {
+    background-color: #70a95aca;
+    color: white;
+}
+
+p {
+    font-family: cursive;
+    font-size: x-large;
+}
+
+h3 {
+    font-family: cursive;
+    color: #f35588;
     text-align: center;
 }
 
-.body{
-    color:#ffa931;
-    font-size: 30px;
-    padding-top: 5%;
-}
-img{
-    width: 300px; height: 300px;
+img {
     display: block;
     margin: auto;
+    width: 100px;
+    height: 100px;
 }

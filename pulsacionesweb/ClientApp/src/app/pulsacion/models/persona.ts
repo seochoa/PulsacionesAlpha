@@ -3,5 +3,5 @@ export class Persona {
     nombre: string;
     sexo: string;
     edad: number;
-    pulsacion: number;
+    pulsacion: number;  
 }

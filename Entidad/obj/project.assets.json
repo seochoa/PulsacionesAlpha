@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\Entidad.csproj",
+      "projectUniqueName": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\Entidad.csproj",
       "projectName": "Entidad",
-      "projectPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\Entidad.csproj",
+      "projectPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\Entidad.csproj",
       "packagesPath": "C:\\Users\\SEBASTIAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\obj\\",
+      "outputPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SEBASTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,7 +1,13 @@
 td {
-    color: #ffa931;
+    color: #f35588;
+    font-family: cursive;
+    font-size: large;
+    background-color: #ffbcb485;
 }
 
 th {
-    color: #b9ac92;
+    color: #007944;
+    font-family: cursive;
+    font-size: x-large;
+    background-color: #70a95a8e;
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0lAFfkoQoSsOtcF3rdsPZgTzgYfEgjoh1zKi4f7rbbUC4h/6pZFlz2TTqxxLVYP77P2/Zh8YftJH5n9p1Iz4Q==",
+  "dgSpecHash": "/yW/pds9KomOamSnHnCz9hGfCRcTdIo0nRJKjFjoW/YU25pNwTnaf+06Snxr7hkWGBWNygiz02SPGfCjZEjP9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s9NkHF1RYiiQtjhLXAy1GtvBD0GqJgp+YTL8+cXSiCDfKWjWVXIRh9P2EeB9aVxKdX9KndTLTVJEF5Q7F5rDxQ==",
+  "dgSpecHash": "ZmU5JGP7BBxX4EKUesLRf2Wt5fv18sWFLScGpTAngYmDfbtSQcy/sdmURtX+2NmGIh+DCJEfbEzhLwhBp0gxVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

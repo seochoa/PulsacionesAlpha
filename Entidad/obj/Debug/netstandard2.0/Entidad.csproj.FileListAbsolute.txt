@@ -7,3 +7,12 @@ C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\PULSACIONES ANGULAR\Entidad\obj\Debu
 C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\PULSACIONES ANGULAR\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
 C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\PULSACIONES ANGULAR\Entidad\obj\Debug\netstandard2.0\Entidad.dll
 C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\PULSACIONES ANGULAR\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\SEBASTIAN\Downloads\Nueva carpeta\Entidad\obj\Debug\netstandard2.0\Entidad.pdb

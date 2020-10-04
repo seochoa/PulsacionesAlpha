@@ -1102,11 +1102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Logica\\Logica.csproj",
+      "projectPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\SEBASTIAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Logica\\obj\\",
+      "outputPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SEBASTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1122,11 +1122,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Datos\\Datos.csproj"
+            "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Datos\\Datos.csproj"
             },
-            "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\Entidad.csproj": {
-              "projectPath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Entidad\\Entidad.csproj"
+            "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Entidad\\Entidad.csproj"
             }
           }
         }

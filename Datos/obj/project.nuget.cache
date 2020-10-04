@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "muKIRoCTiMTGRJ4OrJgaQIbK2lZ4Z5KymdMDAj7glmmeuoFns3jll104NHELObqfc5Trqg/XWoAiQO86dRfB7Q==",
+  "dgSpecHash": "kleLc3FHrzLIc1Dk/7ZqjDrYKQhEoGx8ElLunDNwPHW70Nq9opi/Zru39kBIzTuXb+otpTmoKbSnqmb6hDwwxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEBASTIAN\\Desktop\\PROGRAMACION WEB\\PULSACIONES ANGULAR\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\SEBASTIAN\\Downloads\\Nueva carpeta\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\SEBASTIAN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
